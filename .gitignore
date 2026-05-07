@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Results (generated output)
+results/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
